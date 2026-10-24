@@ -1,0 +1,130 @@
+[
+  {
+    "junction_id": 0,
+    "junction_name": "Central Square",
+    "total_outflow": 155715,
+    "total_inflow": 262485,
+    "avg_speed_kmh": 47.08,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 1,
+    "junction_name": "Metro Hub",
+    "total_outflow": 153865,
+    "total_inflow": 259171,
+    "avg_speed_kmh": 46.55,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 2,
+    "junction_name": "Tech Park East",
+    "total_outflow": 162758,
+    "total_inflow": 193338,
+    "avg_speed_kmh": 46.19,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 3,
+    "junction_name": "Harbor Gate",
+    "total_outflow": 158698,
+    "total_inflow": 95942,
+    "avg_speed_kmh": 46.1,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 4,
+    "junction_name": "Airport Expressway",
+    "total_outflow": 157009,
+    "total_inflow": 68696,
+    "avg_speed_kmh": 46.0,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 5,
+    "junction_name": "University Circle",
+    "total_outflow": 155396,
+    "total_inflow": 107425,
+    "avg_speed_kmh": 46.2,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 6,
+    "junction_name": "Financial District",
+    "total_outflow": 159890,
+    "total_inflow": 242642,
+    "avg_speed_kmh": 45.68,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 7,
+    "junction_name": "West End Cross",
+    "total_outflow": 155354,
+    "total_inflow": 93092,
+    "avg_speed_kmh": 46.57,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 8,
+    "junction_name": "North Terminal",
+    "total_outflow": 155135,
+    "total_inflow": 91837,
+    "avg_speed_kmh": 46.27,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 9,
+    "junction_name": "South Interchange",
+    "total_outflow": 163002,
+    "total_inflow": 97552,
+    "avg_speed_kmh": 45.8,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 10,
+    "junction_name": "East Arterial",
+    "total_outflow": 158000,
+    "total_inflow": 236750,
+    "avg_speed_kmh": 46.52,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 11,
+    "junction_name": "Grand Avenue",
+    "total_outflow": 156333,
+    "total_inflow": 102790,
+    "avg_speed_kmh": 46.51,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 12,
+    "junction_name": "Riverfront Boulevard",
+    "total_outflow": 158994,
+    "total_inflow": 104257,
+    "avg_speed_kmh": 46.12,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 13,
+    "junction_name": "Civic Center",
+    "total_outflow": 148659,
+    "total_inflow": 247676,
+    "avg_speed_kmh": 47.01,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 14,
+    "junction_name": "Market Street",
+    "total_outflow": 163115,
+    "total_inflow": 241663,
+    "avg_speed_kmh": 46.41,
+    "congestion_score": 100.0
+  },
+  {
+    "junction_id": 15,
+    "junction_name": "Outer Ring Junction",
+    "total_outflow": 165441,
+    "total_inflow": 82048,
+    "avg_speed_kmh": 45.49,
+    "congestion_score": 100.0
+  }
+]

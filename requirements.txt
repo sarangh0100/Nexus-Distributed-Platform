@@ -1,0 +1,14 @@
+# Nexus: Distributed Smart City Traffic Analytics & Parallel Simulation Engine
+# Core Dependencies
+numpy>=1.22.0
+pandas>=1.5.0
+streamlit>=1.28.0
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# Distributed Computing Libraries
+# For Exp 9 & 10 (MPI):
+mpi4py>=3.1.4
+
+# For Exp 7 (Spark MapReduce):
+pyspark>=3.4.0

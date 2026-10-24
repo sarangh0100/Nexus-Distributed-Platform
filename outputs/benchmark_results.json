@@ -1,0 +1,26 @@
+{
+  "matrix_dimension": 300,
+  "results": [
+    {
+      "processes": 1,
+      "time_ms": 185.0,
+      "speedup": 1.0,
+      "efficiency_pct": 100.0,
+      "ideal_speedup": 1
+    },
+    {
+      "processes": 2,
+      "time_ms": 102.55,
+      "speedup": 1.8,
+      "efficiency_pct": 90.2,
+      "ideal_speedup": 2
+    },
+    {
+      "processes": 4,
+      "time_ms": 63.58,
+      "speedup": 2.91,
+      "efficiency_pct": 72.7,
+      "ideal_speedup": 4
+    }
+  ]
+}

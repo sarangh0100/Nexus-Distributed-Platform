@@ -1,0 +1,10 @@
+{
+  "job_name": "Nexus_Traffic_Flow_MapReduce",
+  "total_records_ingested": 50000,
+  "unique_key_groups": 240,
+  "map_duration_sec": 0.1385,
+  "shuffle_duration_sec": 0.0037,
+  "reduce_duration_sec": 0.013,
+  "total_execution_sec": 0.1553,
+  "status": "SUCCESS"
+}

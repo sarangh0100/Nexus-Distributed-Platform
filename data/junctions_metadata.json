@@ -1,0 +1,22 @@
+{
+  "city_name": "MetroGrid Central",
+  "num_junctions": 16,
+  "junctions": [
+    {"id": 0, "name": "Central Square", "x": 50, "y": 50, "zone": "Downtown", "capacity": 3000},
+    {"id": 1, "name": "Metro Hub", "x": 65, "y": 55, "zone": "Downtown", "capacity": 2800},
+    {"id": 2, "name": "Tech Park East", "x": 80, "y": 70, "zone": "Commercial", "capacity": 2500},
+    {"id": 3, "name": "Harbor Gate", "x": 85, "y": 30, "zone": "Industrial", "capacity": 2000},
+    {"id": 4, "name": "Airport Expressway", "x": 95, "y": 90, "zone": "Transit", "capacity": 3500},
+    {"id": 5, "name": "University Circle", "x": 35, "y": 75, "zone": "Institutional", "capacity": 2200},
+    {"id": 6, "name": "Financial District", "x": 55, "y": 35, "zone": "Downtown", "capacity": 3200},
+    {"id": 7, "name": "West End Cross", "x": 20, "y": 45, "zone": "Residential", "capacity": 1800},
+    {"id": 8, "name": "North Terminal", "x": 45, "y": 90, "zone": "Transit", "capacity": 2600},
+    {"id": 9, "name": "South Interchange", "x": 50, "y": 15, "zone": "Highway", "capacity": 3400},
+    {"id": 10, "name": "East Arterial", "x": 75, "y": 40, "zone": "Commercial", "capacity": 2100},
+    {"id": 11, "name": "Grand Avenue", "x": 35, "y": 25, "zone": "Residential", "capacity": 1900},
+    {"id": 12, "name": "Riverfront Boulevard", "x": 70, "y": 20, "zone": "Scenic", "capacity": 1600},
+    {"id": 13, "name": "Civic Center", "x": 40, "y": 55, "zone": "Downtown", "capacity": 2400},
+    {"id": 14, "name": "Market Street", "x": 60, "y": 65, "zone": "Commercial", "capacity": 2300},
+    {"id": 15, "name": "Outer Ring Junction", "x": 15, "y": 80, "zone": "Highway", "capacity": 3100}
+  ]
+}
